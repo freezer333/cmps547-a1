@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libupq.a  CMakeFiles/upq.dir/upq.c.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libupq.a
