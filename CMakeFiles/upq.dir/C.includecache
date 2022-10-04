@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sfrees/projects/cmps547/list.h
+
+/Users/sfrees/projects/cmps547/upq.c
+upq.h
+/Users/sfrees/projects/cmps547/upq.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/Users/sfrees/projects/cmps547/upq.h
+list.h
+/Users/sfrees/projects/cmps547/list.h
+

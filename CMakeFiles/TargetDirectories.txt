@@ -1,0 +1,5 @@
+/Users/sfrees/projects/cmps547/CMakeFiles/rebuild_cache.dir
+/Users/sfrees/projects/cmps547/CMakeFiles/edit_cache.dir
+/Users/sfrees/projects/cmps547/CMakeFiles/upq.dir
+/Users/sfrees/projects/cmps547/CMakeFiles/upq-test.dir
+/Users/sfrees/projects/cmps547/CMakeFiles/list.dir
